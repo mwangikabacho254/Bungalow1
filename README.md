@@ -33,4 +33,11 @@ Welcome to my journey of mastering Revit for Electrical Design. This repository 
 ---
 
 
+## Tools Used
+- Autodesk Revit 2026  
+- Custom .RFA families (in progress)  
+- GitHub for tracking learning and asset organization
 
+---
+
+## Folder Structure (Planned)
