@@ -13,4 +13,24 @@ Welcome to my journey of mastering Revit for Electrical Design. This repository 
 
 ---
 
+## Completed Tasks
+- Placed lighting fixtures and sockets  
+- Connected sockets and lights to distribution panel  
+- Adjusted visibility settings to optimize 3D and 2D views  
+- Hid room tags and levels to declutter layouts  
+- Learned how to rotate and align fixtures  
+  
+
+---
+
+## Next Steps
+
+- Lay conduits accurately (power, lighting, data)  
+- Add junction boxes, surface-mount and concealed conduit runs  
+- Create schedules for electrical systems  
+- Begin modeling smart features (e.g., automation-ready layouts)
+
+---
+
+
 
