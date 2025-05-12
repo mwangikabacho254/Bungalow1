@@ -10,7 +10,7 @@ Welcome to my journey of mastering Revit for Electrical Design. This repository 
 - Setting up views for electrical layout clarity
 - Using conduits for power and lighting distribution
 - Annotation and documentation practices
-llll
+lll
 ---
 
 ## Completed Tasks
